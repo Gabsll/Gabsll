@@ -49,7 +49,7 @@ Eu começei a programar recentemente, seguindo a trilha de front-end. Futurament
 
 | *GitHub Streak* |*trophy*|
 | :------------------ | :----------: |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Gabsll&theme=neon-palenight&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&background=45%2C65DC98%2CFCEE09&border=00F0FF&stroke=00F0FF&ring=FF003C&fire=00F0FF&currStreakNum=050A0E&sideNums=050A0E&currStreakLabel=050A0E&sideLabels=050A0E&dates=050A0E&excludeDaysLabel=050A0E)](https://git.io/streak-stats) |<img src="https://github-profile-trophy.vercel.app/?username=Gabsll&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Gabsll&theme=neon-palenight&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&background=45%2C65DC98%2CFCEE09&border=00F0FF&stroke=00F0FF&ring=FF003C&fire=00F0FF&currStreakNum=050A0E&sideNums=050A0E&currStreakLabel=050A0E&sideLabels=050A0E&dates=050A0E&excludeDaysLabel=050A0E)](https://git.io/streak-stats) |<img src="[https://github-profile-trophy.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/?username=Gabsll&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />|
 </div>
 <div align="center">
 
