@@ -45,7 +45,8 @@ Eu começei a programar recentemente, seguindo a trilha de front-end. Futurament
 
 | *Top Langs* |*GitHub Stats*|
 | :------------------ | :----------: |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsll&hide=null)](https://github.com/Gabsll/github-readme-stats) |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabsll&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabsll&layout=donut)](https://github.com/anuraghazra/github-readme-stats)|[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gabsll&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gabsll&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)|
 
 | *GitHub Streak* |*trophy*|
 | :------------------ | :----------: |
